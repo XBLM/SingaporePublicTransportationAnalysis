@@ -1,3 +1,29 @@
+```
+│  .gitignore
+│  README.md
+│
+├─Codes
+│      preprocess.m
+│      pressurePred.m
+│      strategySimulation.m
+│      WD_H_Divide.m
+│
+├─Datas
+│      bus_line-178.csv
+│      bus_line.csv
+│      bus_vol-178.csv
+│      bus_vol.csv
+│      pressure_H.csv
+│      pressure_WD.csv
+│      P_H_Pred.csv
+│      P_WD_Pred.csv
+│
+└─Pictures
+        压力预测对比.png
+        发车总量，等车时间和碳减排对比.jpg
+        等间隙发车与预测自适应发车效果对比.png
+        线路压力图.png
+```
 ## A.交通数据集
 ### 1.数据集来源
 `[1] Lan, T.; Cheng, H.; Wang, Y.; Wen, B. Site Selection via Learning Graph Convolutional Neural Networks: A Case Study of Singapore. Remote Sens. 2022, 14, 3579. https://doi.org/10.3390/rs14153579`
